@@ -29,7 +29,7 @@ func myLogic() (string, int, error) {
 	dataMap := map[string]string{
 		"channel":  "super-test",
 		"text":     "Danger!!",
-		"username": "Neethi",
+		"username": "JOSEPH",
 	}
 
 	data, err := json.Marshal(dataMap)
